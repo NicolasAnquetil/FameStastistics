@@ -5,7 +5,7 @@ Computing some statistics on Fame traits usage:
 - How many in each category (associations, technical, property, source-entity)
 - How many used in the different Famix meta-model
 
-To count the number of traits:
+To find all traits in different categories:
 ```St
 TraitsCounting allTraits.
 
@@ -15,7 +15,7 @@ TraitsCounting propertyTraits.
 TraitsCounting sourceEntityTraits.
 ```
 
-To count the traits in a Famix meta-model:
+To count the different kind of traits in a Famix meta-model:
 ```St
 TraitsCounting metamodelReport: FamixJavaModel
 ```
