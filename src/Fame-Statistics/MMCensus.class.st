@@ -1,6 +1,8 @@
 "
 Count all meta-models in the image and compute relations between them
 
+`MMCencus report` generate a plantUML script in the Transcript
+
 
 "
 Class {
