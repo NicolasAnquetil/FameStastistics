@@ -1,3 +1,13 @@
+"
+See class side methods:
+- `allTraits`
+- `associationTraits`
+- `propertyTraits`
+- `sourcedEntityTraits`
+- `technicalTraits`
+
+- `metamodelReport: aModelClass` prints statistics report on Transcript
+"
 Class {
 	#name : 'TraitsCounting',
 	#superclass : 'Object',
